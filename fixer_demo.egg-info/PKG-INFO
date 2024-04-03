@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: fixer-demo
+Version: 0.2
+Summary: Fixer service demo package
+Author: Hosein
+Author-email: mahdikhorshidio@gmail.com
+License: MIT
+Requires-Dist: requests
